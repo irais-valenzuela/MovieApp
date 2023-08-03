@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.movie-div {
+  background-color: pink;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  margin: 1rem;
+}
